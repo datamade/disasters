@@ -1,0 +1,32 @@
+Chemicals
+
+- https://www.mprnews.org/story/2014/09/23/trains-haul-undocumented-hazardous-chemicals
+- https://rcrapublic.epa.gov/rcrainfoweb/action/modules/em/emindex
+- https://rcrapublic.epa.gov/rcrainfoweb/action/modules/hd/hdoverview
+- http://mims.doe.gov/
+- https://safetydata.fra.dot.gov/OfficeofSafety/default.aspx
+- https://safetydata.fra.dot.gov/MasterWebService/FRASafetyDataAPIs.aspx
+- http://askrail.us/
+- https://pvnpms.phmsa.dot.gov/PublicViewer/
+- https://portal.phmsa.dot.gov/analyticsSOAP/saw.dll?Dashboard
+- https://hazmatonline.phmsa.dot.gov/IncidentReportsSearch/IncrSearch.aspx
+- https://www.phmsa.dot.gov/data-and-statistics/pipeline/data-and-statistics-overview
+- https://hazmatonline.phmsa.dot.gov/ApprovalsSearch/
+- http://www.epa.state.il.us/chemical-safety/toxic-chemical-report/
+- http://webapps.sfm.illinois.gov/ustsearch/
+- https://data.cityofchicago.org/widgets/ug5u-hxnx
+- https://www.epa.gov/frs
+- https://www.epa.gov/toxics-release-inventory-tri-program/tri-data-and-tools
+- https://geodata.epa.gov/arcgis/rest/services/OEI/FRS_INTERESTS/MapServer/23
+- https://hifld-geoplatform.opendata.arcgis.com/datasets?group_ids=ab41b78984f7434b9f0b78f2462f6f7d
+- https://hifld-geoplatform.opendata.arcgis.com/datasets/natural-gas-storage-facilities
+- http://163.191.83.31/dww/index.jsp
+- https://public.iema.state.il.us/FOIAHazmatSearch/
+- https://www2.illinois.gov/iema/foia/Pages/default.aspx
+- https://incidentnews.noaa.gov/raw/index
+- http://www.rtk.net/
+- https://echo.epa.gov/tools/data-downloads
+- https://echo.epa.gov/tools/web-services
+- http://tds.glos.us/thredds/catalog.html
+- https://www.in.gov/idem/cleanups/2352.htm
+- https://www.ncdc.noaa.gov/data-access/model-data/model-datasets/national-digital-forecast-database-ndfd

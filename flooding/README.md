@@ -1,0 +1,19 @@
+Data Sources:
+
+- https://water.weather.gov/ahps/rss/index.php
+- https://hifld-geoplatform.opendata.arcgis.com/
+- https://catalog.data.gov/dataset/national-flood-hazard-layer-nfhl
+- https://catalog.data.gov/dataset/storm-prediction-report
+- https://catalog.data.gov/dataset/current-national-weather-service-watches-warnings-or-advisories-for-the-united-s#topic=disasters-legacy_navigation
+- https://water.usgs.gov/floods/swath/
+- https://waterservices.usgs.gov/rest/
+- https://msc.fema.gov/portal/resources/productsandtools#
+- https://earthdata.nasa.gov/earth-observation-data/near-real-time/hazards-and-disasters/floods
+- http://floodobservatory.colorado.edu/
+- http://www.illinoisfloodmaps.org
+- https://www.weather.gov/gis/WebServices
+- https://www.weather.gov/gis/Rivers
+- https://waterdatafortexas.org/reservoirs/statewide
+- https://levees.sec.usace.army.mil/mapserver/public/ows
+- https://levees.sec.usace.army.mil/api/docs/#/
+- https://ijc.org/en/lsbc/watershed/levels
